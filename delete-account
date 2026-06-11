@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Verzoek tot verwijdering van account</title>
+</head>
+<body>
+    <h1>Verzoek tot verwijdering van account</h1>
+
+    <p>Laatst bijgewerkt: juni 2026</p>
+
+    <p>
+        Als je jouw account en alle bijbehorende gegevens wilt laten verwijderen,
+        stuur dan een e-mail naar:
+    </p>
+
+    <p><strong>tsjalling82@gmail.com</strong></p>
+
+    <p><strong>Onderwerp:</strong> Verzoek tot verwijdering van account</p>
+
+    <p>
+        Vermeld in je e-mail het e-mailadres dat aan je account is gekoppeld.
+    </p>
+
+    <h2>Wat gebeurt er na je verzoek?</h2>
+
+    <ul>
+        <li>Je account wordt verwijderd.</li>
+        <li>Persoonsgegevens worden verwijderd, tenzij wettelijke bewaarplichten gelden.</li>
+        <li>Je ontvangt een bevestiging zodra de verwijdering is voltooid.</li>
+    </ul>
+
+    <p>Verzoeken worden doorgaans binnen 30 dagen verwerkt.</p>
+</body>
+</html>
